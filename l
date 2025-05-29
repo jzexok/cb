@@ -1,7 +1,7 @@
 local a = game.PlaceId
 
 local b = {
-    [127380660530951] = "https://raw.githubusercontent.com/jzexok/cb/refs/heads/main/g/so",
+    [121418861436763] = "https://raw.githubusercontent.com/jzexok/cb/refs/heads/main/g/so",
     [2413927524] = "https://raw.githubusercontent.com/jzexok/cb/refs/heads/main/g/tr",
 }
 
